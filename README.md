@@ -22,7 +22,7 @@ Starfield/
 
 Preview:
 
-![Starfield](Starfield/screenshot.png)
+![Starfield](Starfield/preview.gif)
 
 ---
 
