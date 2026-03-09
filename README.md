@@ -17,12 +17,12 @@ Animated deep-space background with thousands of stars and falling stars.
 Location:
 
 ```
-starfield/
+Starfield/
 ```
 
 Preview:
 
-![Starfield](starfield/screenshot.png)
+![Starfield](Starfield/screenshot.png)
 
 ---
 
